@@ -23,5 +23,3 @@
 | 5 | **Don't use social media as a substitute for official communication.** For academic matters (leave requests, complaints, queries), always use official channels like college email or the VITyarthi portal. |
 
 ---
-
-*Source: CSE0001 Digital Literacy Portfolio – Task 4*
