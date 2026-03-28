@@ -1,0 +1,9 @@
+UPI fraud is one of the most common cybercrimes in India, especially among students and people who frequently use online payments. It usually happens when fraudsters trick users into sharing sensitive information or approving fake payment requests.
+
+A common scenario is when a student receives a message or call claiming that they have won a reward or are eligible for a refund. The fraudster then sends a UPI collect request and asks the student to approve it to receive money. However, instead of receiving money, the amount gets debited from the student’s account.
+
+In many cases, fraudsters also send fake links or impersonate bank officials to gain trust. Students who are not fully aware of such scams often fall victim due to urgency or lack of knowledge.
+
+The consequences of UPI fraud include financial loss, stress, and sometimes difficulty in recovering the money. It can also lead to misuse of personal information if shared during the process.
+
+This case study highlights the importance of being cautious while using digital payment platforms and verifying every request before taking action.
