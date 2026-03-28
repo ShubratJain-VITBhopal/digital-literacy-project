@@ -1,9 +1,5 @@
 # Social Media Do's and Don'ts for College Students
 
-*Task 4 – Part B | CSE0001 Digital Literacy*
-
----
-
 ## ✅ DO's
 
 | # | Do This |
