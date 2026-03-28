@@ -1,6 +1,5 @@
 # Stay Safe Online – Cybercrime Prevention Checklist
 
-*Task 5 – Part B | CSE0001 Digital Literacy | VIT Bhopal University*
 
 ---
 
@@ -44,4 +43,3 @@ If you or someone you know has been a victim of cybercrime, report it immediatel
 
 *Stay alert. Stay safe. Be a responsible digital citizen.*
 
-*Prepared for CSE0001 Digital Literacy – Task 5*
