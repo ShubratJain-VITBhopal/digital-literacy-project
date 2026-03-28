@@ -4,7 +4,7 @@
 
 | # | Do This |
 |---|---------|
-| 1 | **Keep your profiles professional.** Use a clear, appropriate profile photo and bio — future employers and internship coordinators will look you up. |
+| 1 | **Keep your profiles professional.** Use a clear, appropriate profile photo and bio as future employers and internship coordinators will look you up. |
 | 2 | **Think before you post.** Ask yourself: "Would I be comfortable if my professor, parent, or a future employer saw this?" If the answer is no, don't post it. |
 | 3 | **Use privacy settings.** Regularly review and update the privacy settings on all platforms to control who can see your personal content. |
 | 4 | **Give credit where it's due.** Always attribute quotes, images, and ideas to their original creators when sharing someone else's work. |
