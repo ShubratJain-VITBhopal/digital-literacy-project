@@ -1,4 +1,4 @@
-# Stay Safe Online – Cybercrime Prevention Checklist
+# Cybercrime Prevention Checklist
 
 
 ---
@@ -17,29 +17,8 @@
 
 - [ ] **Be careful on public Wi-Fi.** Avoid logging into banking or sensitive accounts on unsecured public networks (cafés, airports, etc.). Use a VPN if necessary.
 
----
-
-## 💳 UPI & Financial Safety (Mandatory Tips)
-
 - [ ] **NEVER share your UPI PIN or OTP with anyone** — not even someone claiming to be from your bank, NPCI, or government. No legitimate organisation will ever ask for these.
 
 - [ ] **Remember: Receiving money does NOT require entering your PIN.** If someone asks you to enter your UPI PIN to "receive" a payment or prize, it is a scam — you are sending money, not receiving it.
 
 ---
-
-## Reporting Cybercrime
-
-If you or someone you know has been a victim of cybercrime, report it immediately:
-
-| Channel | Details |
-|---------|---------|
-| 🌐 National Cyber Crime Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
-| 📞 Cyber Crime Helpline | **1930** (24x7, Government of India) |
-| 🏦 Bank Fraud Helpline | Call your bank's 24x7 toll-free number immediately to freeze your account |
-
-> **Tip:** Report as quickly as possible — early reporting significantly increases the chance of recovering lost money.
-
----
-
-*Stay alert. Stay safe. Be a responsible digital citizen.*
-
