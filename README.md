@@ -40,7 +40,7 @@ Set up profiles on **GitHub**, **LinkedIn**, and **Kaggle**. None of them are im
 
 Completed the 'Solve Me First' beginner challenge on **HackerRank** — mostly to get familiar with how the platform works before placement tests make it matter. Also built a five-question Digital Literacy Awareness Quiz on **Google Forms**, linked to a Google Sheet for responses.
 
-🔗 **Google Form Quiz Link:** _(paste your form link here)_
+🔗 **Google Form Quiz Link:** (https://forms.gle/bic8WoppfP5Mt9u26)
 📁 `task-3-platforms/`
 
 ---
